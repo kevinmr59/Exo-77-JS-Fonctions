@@ -1,9 +1,11 @@
 /* Voici un exemple de fonction retournant du texte, inspirez vous de cet exemple pour réaliser l'exercice */
 
-function txtReturn() {
-    return "monTexte";
+function txtInsert() {
+    return "j'aime le javaScript";
 }
-
+function backgroundSet(){
+    return "magenta"
+}
 
 
 
